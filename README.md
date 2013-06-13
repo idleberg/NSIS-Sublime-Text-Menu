@@ -25,3 +25,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+## Donate
+
+[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/NSIS-Sublime-Text-Menu/&title=NSIS-Sublime-Text-Menu&description=Context%20menu%20for%20SublimeText%20to%20look%20up%20NSIS%20commands%20on%20the%20NSIS%20Handbook&language=en_GB&tags=nsis,sublimetext,helper,documentation&hidden=0&category=software)
