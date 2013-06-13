@@ -7,7 +7,7 @@ import subprocess
 import webbrowser
 
 def SearchFor(text):
-    url = 'http://nsis.sourceforge.net/Reference/' + text.replace(' ','%20')
+    url = 'https://github.com/NSIS-Handbook/Documentation/blob/master/Reference/' + text.replace(' ','%20') + ".md"
     webbrowser.open_new_tab(url)
 
 class NsisSearchSelectionCommand(sublime_plugin.TextCommand):
